@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompteBancaires>
+  <CompteBancaire>
+    <numero>456</numero>
+    <proprietaire>mohamed</proprietaire>
+    <type>Epargne</type>
+    <dateCreation>2023-12-08T12:30:00.589634500</dateCreation>
+    <solde>400.0</solde>
+  </CompteBancaire>
+  <CompteBancaire>
+    <numero>123</numero>
+    <proprietaire>amine</proprietaire>
+    <type>Courant</type>
+    <dateCreation>2023-12-08T12:29:44.801543600</dateCreation>
+    <solde>1200.0</solde>
+  </CompteBancaire>
+</CompteBancaires>
